@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/risqir57/new-year.git"
+    "url": "https://github.com/risqir57/angular-pwa-husky.git"
   },
   "scripts": {
     "ng": "ng",
